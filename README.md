@@ -1,70 +1,36 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Todo_list
 
-## Available Scripts
+This is a simple Todo List application built with React. It allows you to add, delete, edit, and clear items from a todo list.<br>
 
-In the project directory, you can run:
+<img src="https://github.com/maryamalsadat-tabatabaei/Todo_list/assets/87692864/1de8302a-3140-4341-adcb-be580d5a2afc" alt="Todo Page" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/Todo_list/assets/87692864/f52ec3b7-a4bc-4679-9559-425e99ecefcd" alt="Add Item" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/Todo_list/assets/87692864/64ba5e9a-2b94-4b47-ac8c-f9697d063746" alt="Clear List" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/Todo_list/assets/87692864/ce4203df-0133-4028-92af-4987f830c6a8" alt="Edit Item" width="30%" height="auto">
+<img src="https://github.com/maryamalsadat-tabatabaei/Todo_list/assets/87692864/e983e299-1f58-44c7-8ce5-3b36af2fc7a3" alt="Delete Item" width="30%" height="auto">
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Installation](#installation)
+- [Features](#features)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
+To get started with Restaurant Explorer, follow these steps:
 
-### `yarn build`
+1. Clone the repository: `git clone https://github.com/maryamalsadat-tabatabaei/Todo_list.git`
+2. Navigate to the project directory: `cd Todo_list`
+3. Install dependencies: `npm install`
+4. Start the application: npm start
+5. Access the application in your browser at http://localhost:3000
+   
+## Features
+- Add new items: Easily add new items to the todo list by typing them into the input field and pressing Enter or clicking the "Add" button. This allows you to keep track of tasks, reminders, or any other items you need to remember.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Delete items: Remove items from the todo list with a single click. Each item in the list has a delete button associated with it, allowing you to quickly and easily remove completed tasks or items that are no longer relevant.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Edit items: Edit existing items in the todo list to modify their content. By clicking the edit button on an item, you can make changes to the item's title or other details, ensuring that your list stays up-to-date and accurate.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Clear the entire list: If you want to remove all items from the todo list at once, you can use the "Clear list" feature. This button allows you to clear the entire list with a single click, providing a convenient way to start afresh or remove completed tasks in bulk.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
